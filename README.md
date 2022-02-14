@@ -8,6 +8,7 @@
 </p>
 
 ## About Laravel
+Link Video: https://binusianorg-my.sharepoint.com/personal/vincent_ciptadi_binus_ac_id/_layouts/15/guestaccess.aspx?guestaccesstoken=hDVObzZSPqF9cqYKVPg%2FWo4kNqplKNAkKEt0CyB%2B3I4%3D&docid=2_0c7a875cb305946009b43f92f2a7bddbd&rev=1&e=8ZhNsp/
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
